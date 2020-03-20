@@ -1,0 +1,13 @@
+bolt
+car-battery
+charging-station
+chevron-circle-right
+clock
+dollar-sign
+dot-circle
+expand-alt
+gas-pump
+location-arrow
+map-marker-alt
+paper-plane
+tachometer-alt
